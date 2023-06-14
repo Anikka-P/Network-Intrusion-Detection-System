@@ -1,4 +1,4 @@
-# Network-Intrusion-Detection-System
+# Hybrid Network IDS
 Over the years, the internet has expanded significantly. It involves not only linking computer networks but also a large number of global devices that use big data. The Internet offers the chance to develop a variety of advances for every industry, including financial technology, e-commerce, education, health, and public facilities. Despite its benefits, the internet may also be a target for harmful activities and cyberattacks that could harm anyone linked to it. An intrusion detection system (IDS) is used to detect any cyberattacks that try to access the network system so that it can recognize those incoming intrusions beforehand and sends an alert.
 
 ## Proposed Solution:
